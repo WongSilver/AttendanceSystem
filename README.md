@@ -15,4 +15,4 @@
  - 项目使用MySQL数据库。
 
 
-## 有疑问请加QQ：[783244553](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=783244553&website=www.oicqzone.com)
+#### 有疑问请加QQ：783244553
