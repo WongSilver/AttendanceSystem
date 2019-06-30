@@ -18,6 +18,12 @@ import edu.wong.util.ConnUtil;
 import edu.wong.util.PortUtil;
 import okhttp3.Response;
 
+
+
+/**
+ *
+ * ip地址要在登陆页面的网络设置，设置一下。数据库端口号需要自己改
+ */
 public class Login extends AppCompatActivity {
     public static int uType = 0;
     private TextView tv_name;
