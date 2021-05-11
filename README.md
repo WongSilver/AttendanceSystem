@@ -10,7 +10,7 @@
  - 缺陷：设计时忘记考虑端口号（端口号固定死了，需要可以自己修改）
 
 ## 项目数据存储api：
- - 项目语言：JSP+Serlvet
+ - 项目语言：JSP+Servlet
  - api接口项目地址：[AttendanceSystem_api](https://github.com/Silver-Age/AttendanceSystem_api)
  - 项目使用MySQL数据库。
 
